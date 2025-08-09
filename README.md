@@ -18,10 +18,10 @@ I am a passionate MERN Stack Developer skilled in building scalable and performa
 
 ---
 
-## Skills
-
+## Skills  
 ### Frontend  
-
+| Icon | Skill |  
+|:----:|:-----:|  
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React" /> | React |  
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" /> | JavaScript |  
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" /> | HTML5 |  
