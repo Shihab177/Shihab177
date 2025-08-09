@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/mCxYtV8G/linkedin-banner.png" alt="Banner" width="100%" />
 
 # Shihab Islam  
-**MERN Stack Developer** | Dhaka, Bangladesh | Email : shihab.islam.dev | WhatsApp : +880 1869-452239
+**MERN Stack Developer** | Dhaka, Bangladesh | Email : shihab.islam.dev@gmail.com | WhatsApp : +880 1869-452239
 
 ---
 
