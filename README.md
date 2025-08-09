@@ -13,9 +13,8 @@ I am a passionate MERN Stack Developer skilled in building scalable and performa
 
 ## Current Activities
 - Exploring Next.js and server-side rendering.
-- Developing a tourism website using React and Node.js.
+- Developing a web application to track and display daily market prices.
 - Learning advanced MongoDB features for better data management.
-
 ---
 
 ## Skills  
