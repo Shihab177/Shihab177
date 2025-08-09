@@ -45,6 +45,7 @@ I am a passionate MERN Stack Developer skilled in building scalable and performa
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shihab.islam.dev@gmail.com&su=Contact%20from%20GitHub&body=Hello%20Shihab,%0A%0AI%20saw%20your%20GitHub%20profile...)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/8801869452239)
+---
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shihab177&show_icons=true&theme=radical)
