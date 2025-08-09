@@ -47,9 +47,9 @@ I am a passionate MERN Stack Developer skilled in building scalable and performa
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/8801869452239)
 
-## GitHub Stats
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shihab177&show_icons=true&theme=radical)
 
-![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shihab177&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shihab177&theme=radical)
