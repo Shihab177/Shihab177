@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co.com/5XDK8fSY/my-Cover-Photo.png" alt="Banner" width="100%" />
+<img src="https://i.ibb.co.com/Dg9181hM/Black-and-Red-Gradient-Professional-Linked-In-Banner-1.png" />
 
 # Shihab Islam  
 **MERN Stack Developer** | Dhaka, Bangladesh 
