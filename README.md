@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://ibb.co.com/FkwKv8Tq" />
+<img src="https://i.ibb.co.com/RkjcpHSm/linkdin-Banner-ai.png" />
 
 # Shihab Islam  
 **MERN Stack Developer** | Dhaka, Bangladesh 
