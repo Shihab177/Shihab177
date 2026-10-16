@@ -1,21 +1,16 @@
 <!-- Banner Image -->
 <img src="https://i.ibb.co.com/RkjcpHSm/linkdin-Banner-ai.png" />
 
-# Shihab Islam  
-**MERN Stack Developer** | Dhaka, Bangladesh 
+# SHIHAB ISLAM  
+**FULL STACK DEVELOPER** | Dhaka, Bangladesh 
 
 ---
 
 ## About Me
-I am a passionate MERN Stack Developer skilled in building scalable and performant web applications. I love working with JavaScript technologies and continuously improving my skills to deliver impactful projects.
+Hi, I'm Shihab — a passionate Full Stack Developer from Bangladesh. With over 3+ years of experience, I specialize in building scalable web applications, secure authentication systems, SEO-friendly platforms, and modern backend architectures.
 
 ---
 
-## Current Activities
-- Exploring Next.js and server-side rendering.
-- Developing a web application to track and display daily market prices.
-- Learning advanced MongoDB features for better data management.
----
 
 ## Skills  
 #### Frontend 
