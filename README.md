@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co.com/RkjcpHSm/linkdin-Banner-ai.png" />
+<img src="https://i.ibb.co.com/gLzH47XB/Neon-Full-Stack-Developer-Banner.png" />
 
 # SHIHAB ISLAM  
 **FULL STACK DEVELOPER** | Dhaka, Bangladesh 
